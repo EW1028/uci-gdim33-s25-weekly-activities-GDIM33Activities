@@ -1,10 +1,13 @@
 # GDIM 33 In-Class Activities
 ## W1
 ### Activity 1
-Put your inspo board link here. Do NOT leave a bare URL. REMOVE ALL INSTRUCTIONAL TEXT.
+[inspo board](https://miro.com/app/board/uXjVGoFUwcM=/)
 
-1. Put your activity 1 answers here.
-2. Please keep the proper list format.
+1. My inspriation pattern all show run and chase, doing mission. players interact with others players, so the game I will do probably, I will NPC chase player, player can hide where NPCs are not able to find, player can complete missions to recive resoures like guns or knife or something that can damage the NPC, try to kill all NPC or finish all the missions to win the game.
+
+2. 
+
+3. 
 
 
 ### Activity 2
