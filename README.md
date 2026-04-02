@@ -12,7 +12,8 @@
 
 ### Activity 2
 
-![Break down]()
+<img width="834" height="621" alt="螢幕截圖 2026-04-01 下午7 23 50" src="https://github.com/user-attachments/assets/e74ab947-3d1a-470c-962f-e52781a1c0f5" />
+
 
 
 ## W2
