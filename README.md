@@ -11,7 +11,8 @@
 
 
 ### Activity 2
-Put your activity 2 image here. REMOVE THIS INSTRUCTIONAL TEXT.
+
+![Break down]()
 
 
 ## W2
