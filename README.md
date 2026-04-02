@@ -7,7 +7,7 @@
 
 2. Roguelike game is what they like in the game, if you fail you restart from the beginning. Maybe I can do this in my game. you get catch, you restart, or I give health point for the play. Similar part is we all have failing system.
 
-3. Mutiple player interactive shooting game, like overwatch, deep rock galactic is what the LA taste of the game, mine will kind of maybe samiliar, shooting part and do missions are similar I guess.
+3. LA: Eric Mutiple player interactive shooting game, like overwatch, deep rock galactic is what the LA taste of the game, mine will kind of maybe samiliar, shooting part and do missions are similar I guess.
 
 
 ### Activity 2
